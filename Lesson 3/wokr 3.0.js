@@ -112,14 +112,11 @@ let products = [
 for (const product of products){
        document.write(`
      <div class="product-card">
-        <h3 class="product-title">${product.title}. Price - ${product.price}</h3>
-        <img src="${product.image}" alt="" class="product-image">
-</div>
-    
-    `)
+        <h3 class="product-title">Title - ${product.title}. Price - ${product.price}</h3>
+        <img src="${product.image}" alt="products" class="product-image">
+     </div>
+     `)
 }
-
-
 
 // #4WrHwFTEop0
 // є масив
