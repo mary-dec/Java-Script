@@ -106,7 +106,7 @@ let products = [
     {
         title: 'tea',
         price: 15,
-        image: 'https://yogiproducts.com/wp-content/uploads/2009/03/YT-US-CAR-RelaxedMind-C23-202201-V2-3DFront_withGlow-300DPI-1.png'
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSok2hahkBgxuBTyIOp9vItyS8DZpZmfKEcRw&s'
     },
 ];
 for (const product of products){
