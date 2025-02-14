@@ -131,6 +131,7 @@ let swap = (arr, i1, i2) =>{
 }
 console.log(swap([11, 22, 33, 44], 0,1));
 
+
 // GDenYnNjn
 // - Написати функцію обміну валюти exchange(sumUAH,currencyValues,exchangeCurrency)
 // Приклад exchange(10000,[{currency:'USD',value:25},{currency:'EUR',value:42}],'USD') // => 400
